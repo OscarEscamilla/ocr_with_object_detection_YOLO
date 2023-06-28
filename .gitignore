@@ -1,0 +1,12 @@
+./data/images/train/*
+./data/labels/train/*
+./assets
+./env
+./assets
+data.zip
+dataset.zip
+./runs
+yolov8x_custom.pt
+yolov8x.pt
+
+

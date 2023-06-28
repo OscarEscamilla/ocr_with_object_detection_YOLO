@@ -1,0 +1,9 @@
+path: /Users/oscarescamilla/workspaceCRD/custom-ocr
+train: data/images/train
+val: data/images/train
+
+
+
+nc: 11
+
+names: ["picture", "expedicion", "vigencia", "nombre", "tipo_sangre", "antiguedad", "nacionalidad", "rfc", "curp", "tipo", "no_licencia" ]

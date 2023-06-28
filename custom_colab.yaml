@@ -1,0 +1,9 @@
+
+train: /content/dataset/images/train
+val: /content/dataset/images/train
+
+
+
+nc: 11
+
+names: ["picture", "tipo", "no_licencia", "nombre", "antiguedad", "expedicion", "vigencia", "nacionalidad", "tipo_sangre", "curp", "rfc" ]
